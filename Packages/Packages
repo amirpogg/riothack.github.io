@@ -1,0 +1,16 @@
+Package: com.riothack.oldpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintaner: riothack <Amirramos39@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/oldpackage.deb
+Size: 834
+MD5sum: 
+9d5f4f30a22e75d0317603866d88e7b7
+SHA1: e551f2b92606814d199869cac1a26758aead7cba
+SHA256: 4d380bb0bf2282992c94126328c1925c6c0b881b43f722ef8d806cb8edc8abb6 
+Description: Test Package
+Name: Old Package
+Author: Riothack
+Depiction: https:///amirpogg.github.io/riothack/depictions/?p=com.riothack.oldpackage
